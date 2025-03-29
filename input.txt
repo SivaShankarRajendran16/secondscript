@@ -1,0 +1,8 @@
+This is the first line.
+This is the second line.
+Hello, welcome to the script.
+give me something.
+welcome learning me knowledge.
+The word give should be replaced in this line.
+welcome! learning it a try.
+
